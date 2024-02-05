@@ -1,6 +1,5 @@
 # INST377-Lab
 
-# Name (Please Input your name): <Insert Name>
-# UMD ID (Please Input your UMD ID): <Insert ID>
+# Name (Please Input your name):
 
-# Comments: <Insert any comments here>
+# Comments: 
